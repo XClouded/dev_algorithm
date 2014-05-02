@@ -2,7 +2,10 @@ Algorithm-Project
 =================
 
 # 未分类
-  - 数据分离
+  - [数据分离](doc/temp/temp.md#数据分离)
+  - [辗转相除](doc/temp/temp.md#辗转相除)
+  - [Fibonacci](doc/temp/temp.md#Fibonacci)
+  - [穷举法](doc/temp/temp.md#穷举法)
 
 # Part1基础知识
 # Part2数据结构
