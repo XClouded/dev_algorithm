@@ -10,11 +10,15 @@ Algorithm-Project
 # Part1基础知识
 # Part2数据结构
 
+- 2.1线性结构
+  - 2.1.1单链表
+  - [2.1.2双链表](doc/data_structure/2.1.2.md)
+
 # Part3排序
 
 - 3.1基本排序方法
   - 3.1.1游戏规则
-  - 3.1.2[选择排序](doc/sort/3.1.2.md)
+  - [3.1.2选择排序](doc/sort/3.1.2.md)
   - 插入排序
   - 冒泡排序
   - 基本排序方法的性能特征
@@ -34,7 +38,8 @@ Algorithm-Project
 # Part4搜索
 # Part5图算法
 
-
-
 -----------------
+
+参考资料
+[skywang12345 数据结构与算法系列目录](http://www.cnblogs.com/skywang12345/p/3603935.html)
 
