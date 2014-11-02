@@ -11,7 +11,7 @@ Algorithm-Project
 # Part2数据结构
 
 - 2.1线性结构
-  - 2.1.1单链表
+  - [2.1.1单链表](doc/data_structure/2.1.1.md)
   - [2.1.2双链表](doc/data_structure/2.1.2.md)
 
 # Part3排序
